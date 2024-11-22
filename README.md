@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dnmof81
+- 👋 Hi, I’m Dianna! Welcome to my profile!
 - 👀 I’m interested in Financial/Risk analysis
 - 🌱 I’m currently learning SQL and Python programming
 - 💞️ I currently work in banking as a Portfolio Analyst
